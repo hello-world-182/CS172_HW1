@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Data and training artifacts
+/data/
+/outputs/
+/output/
+/tmp/
+*.pt
+*.pth
+*.zip
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Original working project with large local data and nested Git metadata
+/CS172-CAPTCHA-public_assignment1/
